@@ -1,23 +1,26 @@
-## Oii, seja bem-vindo! Eu sou o Murilo Motta!
- <div>
+# Hi there, Since you've made it this far, why not take a full look at my profile?	:thinking:
+
+### Here are some quick infos about me :point_down:
+
+- :nerd_face: My name is Murilo Motta, or you can just call me Motta.
+- 🌱 I've been studying to be a back-end developer.
+- :mortar_board: The language I have the most experience is Python.
+- :computer: And recently I've been studying JavaScript and PHP.
+- :card_file_box: Basic knowledge of database.
+- :iphone: I have a crush on solving problems using Python.
+- :smile: Fun fact: I'm a farm boy born in a small town.
+
+##
+
+### If you want to find me, below are my social networks, feel free to add me or leave a message
+
+<a href="https://www.linkedin.com/in/murilo-guizelin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/murilomott/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5565999792209"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://t.me/CleonildoJunior">
+
+##
+
+ ### Git usage status:
+  <div>
   <a href="https://github.com/MottaMurilo">
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=mottamurilo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="220em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mottamurilo&layout=compact&langs_count=7&theme=darcula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Coding" height="198" width="300" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
-</div>
-  
-  ##
- 
-<div>
-  <a href="https://instagram.com/muriloomotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/6RaUPCdqv9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "murilomotta4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/murilo-guizelin-3905351ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MottaMurilo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MottaMurilo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div> 
