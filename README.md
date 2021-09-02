@@ -14,7 +14,7 @@
 
 ### If you want to find me, below are my social networks, feel free to add me or leave a message
 
-<a href="https://www.linkedin.com/in/murilo-guizelin-3905351ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/murilomott/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5565999792209"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://t.me/CleonildoJunior">
+<a href="https://www.linkedin.com/in/muriloguizelin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/murilomott/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5565999792209"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://t.me/CleonildoJunior">
 
 ##
 
